@@ -1,3 +1,3 @@
-# S6_Mi_Card_Flutter
-Mi card application 
-![Mi Card App Flutter](/Images/mi_card_esra.jpg))
+# Mi Card App Flutter
+ <br>
+<img src="https://github.com/esragg/Images/blob/main/mi_app_esra.jpeg" width=30% height=30%>
